@@ -1,0 +1,122 @@
+/* Image positioned as a background image for framebook version pannel*/
+.fb_visitor0 {
+background-image: url('chrome://ifamebook/content/images/top.png');
+	width: 978px;
+	height: 30px;
+	/*color: #4E2B18;*/
+	color: #000000;
+	text-shadow: 1px 1px #ffdb9a;
+	text-align:left;
+	vertical-align: middle;
+	display: table-cell;
+	}
+
+
+/* Facebook version pannel */
+.fb_visitor1 {
+	padding-left: 3%;
+	color: #00FF00;
+	/*color: #3f1407;*/
+	text-shadow: 1px 1px #ffdb9a;
+}
+
+/* Visitor name*/
+.fb_visitor2a {
+	padding-left: 3%;
+	position: absolute;
+	right: 160px;
+	/*color: #4E2B18;*/
+	color: #585858;
+	
+	text-shadow: 1px 1px #ffdb9a;
+}
+
+
+/*  For Refresh */
+.fb_visitor2b {
+	padding-left: 3%;
+	position: absolute;
+	right: 68px;
+	/*color: #4E2B18;*/
+	color: #FFFFFF;
+	text-shadow: 1px 1px #ffdb9a;
+}
+
+/*  Date and Time  */
+.fb_visitor2c {
+	padding-left: 3%;
+	position: absolute;
+	right: 20px;
+	/*color: #4E2B18;*/
+	color: #C0C0C0;
+	text-shadow: 1px 1px #ffdb9a;
+}
+
+
+.fb_visitor5{
+	display:inline;
+}
+
+/*
+.fb_visitor6 {
+
+}
+.fb_visitor7 {
+
+}*/
+
+/* Table header */
+.fb_visitor8 {
+	font-size: 18px;
+	/*color: #4E2B18;*/
+	color: #C0C0C0;
+	text-shadow: 1px 1px #ffdb9a;
+}
+
+/*
+.fb_visitor9 {
+
+}*/
+
+/* Visitor no. */
+.fb_visitor10 {
+	font-size: 25px;
+	font-weight: bold;
+	/*color: #4E2B18;*/
+	color: #180000;
+	text-shadow: 1px 1px #ffdb9a;
+}
+
+
+/*
+.fb_visitor11 {
+	
+}
+*/
+/* Profile pic shodaow */
+.fb_visitor11b {
+border: 1px solid #000000;
+box-shadow: 3px 3px 4px #000000;
+}
+/*
+.fb_visitor12 {
+	
+}*/
+
+/*  Date and Time column cell  */
+.fb_visitor13 {
+	padding-left: 8px; padding-right: 8px;
+	/*color: #4E2B18;*/
+	color: #585858;
+	text-shadow: 1px 1px #C0C0C0;
+	font-size: 18px;
+}
+/*   
+.fb_visitor14 {
+	font-size: 22px; font-weight: bold; color: #FFFF00; text-align:left;
+}
+*/
+/*  2nd pic among 4 in new find fbProfile Friend section   */
+.fb_visitor15 {
+	width: 978px; height: 400px; color: #000000; text-align:left; vertical-align: middle; display: table-cell;
+}
